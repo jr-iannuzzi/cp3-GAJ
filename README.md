@@ -161,8 +161,10 @@ A aplicação Flask é executada dentro do container utilizando um usuário não
 
 ## 👨‍💻 Autores
 
-| `ARTHUR CORREIA DELILA`  | RM563806 |
-| `JOSÉ RICARDO `    | RM564112            |
-| `GABRIEL HENRIQUE `    | RM563732            |
+| ARTHUR CORREIA DELILA - `RM563806` |
+
+| JOSÉ RICARDO - `RM564112` |
+
+| GABRIEL HENRIQUE - `RM563732` |
 
 Projeto desenvolvido para a disciplina de Cloud Computing / DevOps.
